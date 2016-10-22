@@ -1,0 +1,7 @@
+{
+  "_comment": "Run by executing packer -var-file=ubuntu-16.04.json ubuntu.json",
+  "iso_checksum": "1d0aaa3dadba90bbac211729c406072dd91f67c04315effb50fd8d9e0aa8f6c0",
+  "iso_url": "http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/installer-amd64/current/images/netboot/mini.iso",
+  "iso_name": "ubuntu-16.04-xenial.iso",
+  "vm_name": "ubuntu-16.04"
+}
